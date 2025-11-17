@@ -1,4 +1,4 @@
-# eks-alb-ingress-controller Kubernetes practice
+#AWS Load Balancer Controller (formerly known as eks-alb-ingress-controller)
 
 ![alb-ingress](https://github.com/user-attachments/assets/5e139245-0835-4346-8acc-ebd0d3f248d5)
 
